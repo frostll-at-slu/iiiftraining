@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Wilton Diptych (c. 1395)",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Portable altarpiece created for King Richard II of England in the late 1390s (c. 1395-99). He is depicted being presented to the Virgin and Child by his patron saints: John the Baptist, Edward the Confessor, and Edmund the Martyr. The verso depicts his emblem, the white hart (stag), and his coat of arms.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Anonymous artist (English, French, or Bohemian), 14th century; National Gallery, London",
+  "sequences" : [ {
+    "@id" : "http://1b59dd2d-eebb-4813-85f9-fe721820f918",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe",
+      "@type" : "sc:Canvas",
+      "label" : "recto",
+      "height" : 2336,
+      "width" : 2992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8aa4d369-1d89-46ef-94de-43efdb653679",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/wilton-diptych/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/wilton-diptych",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2336,
+          "width" : 2992
+        },
+        "on" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://76256118-f500-4234-88cd-e161c6635dc5",
+      "@type" : "sc:Canvas",
+      "label" : "verso",
+      "height" : 988,
+      "width" : 1270,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f7e1a7d9-6518-4647-a738-ed99b21cb49f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/wilton-diptych-2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/wilton-diptych-2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 988,
+          "width" : 1270
+        },
+        "on" : "http://76256118-f500-4234-88cd-e161c6635dc5"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
