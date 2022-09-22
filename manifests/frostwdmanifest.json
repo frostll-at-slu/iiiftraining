@@ -3,6 +3,11 @@
   "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json",
   "@type" : "sc:Manifest",
   "label" : "The Wilton Diptych (c. 1395)",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/114020356/manifests/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Portable altarpiece created for King Richard II of England in the late 1390s (c. 1395-99). He is depicted being presented to the Virgin and Child by his patron saints: John the Baptist, Edward the Confessor, and Edmund the Martyr. The verso depicts his emblem, the white hart (stag), and his coat of arms.",
@@ -42,6 +47,11 @@
         },
         "on" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/annotations/724e2cee6609f49e886fc8be736b28b8.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "I spent way too much time on these"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://76256118-f500-4234-88cd-e161c6635dc5",
@@ -67,6 +77,11 @@
           "width" : 1270
         },
         "on" : "http://76256118-f500-4234-88cd-e161c6635dc5"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/annotations/481266d922b915578a69aa134c045f61.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "These are not as good but that's okay"
       } ],
       "related" : ""
     } ]
