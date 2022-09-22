@@ -1,0 +1,169 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The hart is shown resting on a badge of rosemary, known to have been a personal badge of Anne of Bohemia. Appropriately, it has also been associated with memory, most famously by Shakespeare's Ophelia (\"there's rosemary, that's for remembrance\"). The green pigment has darkened with time, as on the recto.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The hart is shown resting on a badge of rosemary, known to have been a personal badge of Anne of Bohemia. Appropriately, it has also been associated with memory, most famously by Shakespeare's Ophelia (\"there's rosemary, that's for remembrance\"). The green pigment has darkened with time, as on the recto.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "heraldry: rosemary",
+      "@type" : "oa:Tag",
+      "chars" : "heraldry: rosemary"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anne of bohemia",
+      "@type" : "oa:Tag",
+      "chars" : "anne of bohemia"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: memory",
+      "@type" : "oa:Tag",
+      "chars" : "theme: memory"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "shakespeare",
+      "@type" : "oa:Tag",
+      "chars" : "shakespeare"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T18:09:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663870163442",
+    "dcterms:modified" : "2022-09-22T19:53:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=972,753,290,185"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M972.41186,752.64888h145.08333v0h145.08333v92.64484v92.64484h-145.08333h-145.08333v-92.64484z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_85971b3b-37b3-468c-bc10-8ea986811941\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://76256118-f500-4234-88cd-e161c6635dc5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Richard II adopted the fictional arms of Edward the Confessor (which probably date back to the thirteenth century, well after Edward's death in 1066) in 1395, after the death of Anne of Bohemia. Unusually, he chose to impale (display side-by-side) these arms in the manner that a married woman would do; in deference to the saint, the English royal arms occupy the position that a woman's own arms would take in relation to her husband's. This gesture occasioned some controversy at the time, and its meaning is still debated by modern historians. There is something of a tradition of interpreting the decision in relation to Richard's marriages, given the timing of the gesture. Edward the Confessor was believed to have had a celibate marriage with Edith of Wessex (this is unlikely to have been true historically), leading some scholars to argue that Richard II and Anne of Bohemia emulated this choice, particularly given that Anne had had saintly Bohemian ancestors who had taken up celibacy after giving birth to heirs. This seems implausible on the face of it, and is disproven by a letter written by Anne to her half-brother Wenceslaus IV, King of Bohemia, in the 1380s, in which she implies she has recently had a miscarriage, but writes of her optimism that she will eventually achieve a successful pregnancy. However, Richard did contract a celibate marriage&ndash;namely, his second marriage, to the seven-year-old Isabelle de Valois, as part of an important peace alliance with France, committing him to many years of marriage in name only (which may well have been welcome to him, as he had grieved very deeply for Anne, who had died in 1394). The use of Edward the Confessor's arms therefore allowed Richard to express his allegiance to an English royal saintly tradition and also the manly self-control implied by a commitment to celibacy. It also provides us with a terminus a quo for the Wilton Diptych.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Richard II adopted the fictional arms of Edward the Confessor (which probably date back to the thirteenth century, well after Edward's death in 1066) in 1395, after the death of Anne of Bohemia. Unusually, he chose to impale (display side-by-side) these arms in the manner that a married woman would do; in deference to the saint, the English royal arms occupy the position that a woman's own arms would take in relation to her husband's. This gesture occasioned some controversy at the time, and its meaning is still debated by modern historians. There is something of a tradition of interpreting the decision in relation to Richard's marriages, given the timing of the gesture. Edward the Confessor was believed to have had a celibate marriage with Edith of Wessex (this is unlikely to have been true historically), leading some scholars to argue that Richard II and Anne of Bohemia emulated this choice, particularly given that Anne had had saintly Bohemian ancestors who had taken up celibacy after giving birth to heirs. This seems implausible on the face of it, and is disproven by a letter written by Anne to her half-brother Wenceslaus IV, King of Bohemia, in the 1380s, in which she implies she has recently had a miscarriage, but writes of her optimism that she will eventually achieve a successful pregnancy. However, Richard did contract a celibate marriage&ndash;namely, his second marriage, to the seven-year-old Isabelle de Valois, as part of an important peace alliance with France, committing him to many years of marriage in name only (which may well have been welcome to him, as he had grieved very deeply for Anne, who had died in 1394). The use of Edward the Confessor's arms therefore allowed Richard to express his allegiance to an English royal saintly tradition and also the manly self-control implied by a commitment to celibacy. It also provides us with a <em>terminus a quo</em> for the Wilton Diptych.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "richard ii",
+      "@type" : "oa:Tag",
+      "chars" : "richard ii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anne of bohemia",
+      "@type" : "oa:Tag",
+      "chars" : "anne of bohemia"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "isabelle de valois",
+      "@type" : "oa:Tag",
+      "chars" : "isabelle de valois"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "edward the confessor (king & saint)",
+      "@type" : "oa:Tag",
+      "chars" : "edward the confessor (king & saint)"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "heraldry: coats of arms",
+      "@type" : "oa:Tag",
+      "chars" : "heraldry: coats of arms"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: memory",
+      "@type" : "oa:Tag",
+      "chars" : "theme: memory"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: divine right",
+      "@type" : "oa:Tag",
+      "chars" : "theme: divine right"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T13:22:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663852953571",
+    "dcterms:modified" : "2022-09-22T19:52:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=108,542,448,442"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M107.96364,541.53455h224.06909v0h224.06909v220.87636v220.87636h-224.06909h-224.06909v-220.87636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_455cb3df-4d5a-4724-af97-7e2d78b731ce\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://76256118-f500-4234-88cd-e161c6635dc5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The realistic white hart on the verso of the Diptych is a masterpiece of medieval English animal painting. It was probably based on a real-life model; Richard is known to have been given a white stag in 1393. Leucism in deer (and other animals) is a recessive gene that is rare but not unheard of, and is distinct from albinism in that it isn't a total lack of pigmentation. Presumably the model for the painting was a leucistic deer. The antlers and crown were probably meant to be distinguished by gold stippling but it was never completed.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The realistic white hart on the verso of the Diptych is a masterpiece of medieval English animal painting. It was probably based on a real-life model; Richard is known to have been given a white stag in 1393. Leucism in deer (and other animals) is a recessive gene that is rare but not unheard of, and is distinct from albinism in that it isn't a total lack of pigmentation. Presumably the model for the painting was a leucistic deer. The antlers and crown were probably meant to be distinguished by gold stippling but it was never completed.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "heraldry: white hart",
+      "@type" : "oa:Tag",
+      "chars" : "heraldry: white hart"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "deer",
+      "@type" : "oa:Tag",
+      "chars" : "deer"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T18:06:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663869996853",
+    "dcterms:modified" : "2022-09-22T19:53:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=710,307,242,504"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M710.04048,307.3381h120.97143v0h120.97143v252.11667v252.11667h-120.97143h-120.97143v-252.11667z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_1c1ce654-aba8-4963-8660-72036cf09e4a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://76256118-f500-4234-88cd-e161c6635dc5"
+    } ]
+  } ],
+  "@id" : "https://frostll-at-slu.github.io/iiiftraining/annotations/481266d922b915578a69aa134c045f61.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
