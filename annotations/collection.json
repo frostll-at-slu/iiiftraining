@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://frostll-at-slu.github.io/iiiftraining/annotations/724e2cee6609f49e886fc8be736b28b8.json" ],
+  "@id" : "https://frostll-at-slu.github.io/iiiftraining/annotations/collection.json",
+  "label" : "All annotations loaded in frostll-at-slu/iiiftraining project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
