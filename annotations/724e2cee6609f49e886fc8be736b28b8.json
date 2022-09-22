@@ -1,0 +1,1428 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Edmund's robes were decorated in the same manner as those worn by Richard (see note). Damage to the painting reveals the gold underpainting.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Edmund's robes were decorated in the same manner as those worn by Richard (see note). Damage to the painting reveals the gold underpainting.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T16:13:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663863199079",
+    "dcterms:modified" : "2022-09-22T19:47:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=71,1158,373,227"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M71.09091,1158h186.45455v0h186.45455v113.36364v113.36364h-186.45455h-186.45455v-113.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_84d9abdf-ec5c-4a6f-b7ee-dc39e97ba868\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "John the Baptist's traditional camel-skin attire features an attached head, a detail characteristic of English painting specifically.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>John the Baptist's traditional camel-skin attire features an attached head, a detail characteristic of English painting specifically.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "john the baptist (saint)",
+      "@type" : "oa:Tag",
+      "chars" : "john the baptist (saint)"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sources and influences",
+      "@type" : "oa:Tag",
+      "chars" : "sources and influences"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T16:07:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663862866259",
+    "dcterms:modified" : "2022-09-22T19:48:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1314,1729,79,175"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1313.66697,1728.55521h39.63636v0h39.63636v87.36364v87.36364h-39.63636h-39.63636v-87.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_0e83666d-eb15-4570-af0f-0ec34b4f5568\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The \"earthly\" half of the Diptych is located in an unprepossessing landscape, with a stony ground and a dark forest.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The \"earthly\" half of the Diptych is located in an unprepossessing landscape, with a stony ground and a dark forest.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T17:02:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663866153311",
+    "dcterms:modified" : "2022-09-22T19:48:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1397,1262,89,592"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1396.66667,1261.78836h44.25926v0h44.25926v296.08995v296.08995h-44.25926h-44.25926v-296.08995z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_7731a75e-7fc5-45aa-a3b1-635e144c8e74\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Eleven angels in all appear on this side of the Diptych, a number that has puzzled many commentators; the most common conclusion is that it refers to Richard's coronation at the age of ten and thus in the eleventh year of his life. It has also been suggested, with reference to some pious writings of Edith of Wessex, wife of Edward the Confessor, that it could refer to the twelve years of Richard's marriage to Anne of Bohemia and the eleven children they would have given up by choosing to have a celibate marriage. Evidence in the form of a letter written by Anne (see the coat of arms note on the verso) disproves this reading as it shows that Richard and Anne were actively trying for a child, although the same letter reveals a possible history of miscarriage, offering a tempting and extremely poignant alternate reading that must remain purely speculative.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Eleven angels in all appear on this side of the Diptych, a number that has puzzled many commentators; the most common conclusion is that it refers to Richard's coronation at the age of ten and thus in the eleventh year of his life. It has also been suggested, with reference to some pious writings of Edith of Wessex, wife of Edward the Confessor, that it could refer to the twelve years of Richard's marriage to Anne of Bohemia and the eleven children they would have given up by choosing to have a celibate marriage. Evidence in the form of a letter written by Anne (see the coat of arms note on the verso) disproves this reading as it shows that Richard and Anne were actively trying for a child, although the same letter reveals a possible history of miscarriage, offering a tempting and extremely poignant alternate reading that must remain purely speculative.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "angels",
+      "@type" : "oa:Tag",
+      "chars" : "angels"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "edward the confessor (king & saint)",
+      "@type" : "oa:Tag",
+      "chars" : "edward the confessor (king & saint)"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "richard ii",
+      "@type" : "oa:Tag",
+      "chars" : "richard ii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anne of bohemia",
+      "@type" : "oa:Tag",
+      "chars" : "anne of bohemia"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T17:39:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663868358797",
+    "dcterms:modified" : "2022-09-22T19:51:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2481,1001,299,271"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2524.45205,1040.56099c27.583,-22.75655 66.4933,-39.70259 105.59215,-39.68234v0v0c39.09885,0.02025 73.16051,15.87299 105.59215,39.68234c32.43164,23.80935 45.0374,60.09021 43.7377,95.80165c-1.2997,35.71144 -16.50488,70.85345 -43.7377,95.80165c-27.23282,24.9482 -66.4933,39.70259 -105.59215,39.68234c-39.09885,-0.02025 -78.03608,-14.81512 -105.59215,-39.68234c-27.55607,-24.86722 -43.73097,-59.80677 -43.7377,-95.80165c-0.00673,-35.99488 16.1547,-73.0451 43.7377,-95.80165z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_66f88030-0a07-4865-955a-2a46a91555c7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Note the gesture of blessing made by the Christ child. This is also a common feature of the Sch&ouml;ne Madonna sculpture style, although the child's arms on the Krumlov Madonna are now lost.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Note the gesture of blessing made by the Christ child. This is also a common feature of the Sch&ouml;ne Madonna sculpture style, although the child's arms on the Krumlov Madonna are now lost.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: divine right",
+      "@type" : "oa:Tag",
+      "chars" : "theme: divine right"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sources and influences",
+      "@type" : "oa:Tag",
+      "chars" : "sources and influences"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T17:23:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663867435592",
+    "dcterms:modified" : "2022-09-22T19:50:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1659,839,70,76"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1659.17398,839.2552h34.81818v0h34.81818v38.09091v38.09091h-34.81818h-34.81818v-38.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_ea03f893-3d19-4904-b2c3-67d7300b87a2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "mushrooms",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>mushrooms</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-09-22T17:04:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663866286091",
+    "dcterms:modified" : "2022-09-22T19:52:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2771,2251,136,77"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2770.90909,2251.27273h67.81818v0h67.81818v38.27273v38.27273h-67.81818h-67.81818v-38.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_4109ed3a-e84c-461f-b96c-d64bcd47e4e0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The images of the saints in the Diptych may reflect Richard's devotion to his more immediate lineage as well as his interest in English royal saints. It has been argued that all three of the patron saints are modeled on Richard's immediate predecessors: Edmund the Martyr would thus have been modeled on Edward II, whose tomb effigy in Gloucester Cathedral is pictured below. Despite Edward II's poor historical reputation, Richard was devoted to his great-grandfather's memory, occasionally campaigning for his sainthood (a common political tactic in medieval Europe). As an embattled king who was probably also bisexual, Richard seems to have identified with Edward on a number of levels.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tomb_of_Edward_II%2C_Gloucester_Cathedral_04.jpg/320px-Tomb_of_Edward_II%2C_Gloucester_Cathedral_04.jpg\" alt=\"Tomb of Edward II, Gloucester Cathedral, Gloucester (detail)\" width=\"320\" height=\"240\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The images of the saints in the Diptych may reflect Richard's devotion to his more immediate lineage as well as his interest in English royal saints. It has been argued that all three of the patron saints are modeled on Richard's immediate predecessors: Edmund the Martyr would thus have been modeled on Edward II, whose tomb effigy in Gloucester Cathedral is pictured below. Despite Edward II's poor historical reputation, Richard was devoted to his great-grandfather's memory, occasionally campaigning for his sainthood (a common political tactic in medieval Europe). As an embattled king who was probably also bisexual, Richard seems to have identified with Edward on a number of levels.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tomb_of_Edward_II%2C_Gloucester_Cathedral_04.jpg/320px-Tomb_of_Edward_II%2C_Gloucester_Cathedral_04.jpg\" alt=\"Tomb of Edward II, Gloucester Cathedral, Gloucester (detail)\" width=\"320\" height=\"240\" /></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "edmund the martyr (king & saint)",
+      "@type" : "oa:Tag",
+      "chars" : "edmund the martyr (king & saint)"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "edward ii",
+      "@type" : "oa:Tag",
+      "chars" : "edward ii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "annotations with images",
+      "@type" : "oa:Tag",
+      "chars" : "annotations with images"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: lineage",
+      "@type" : "oa:Tag",
+      "chars" : "theme: lineage"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: royalty",
+      "@type" : "oa:Tag",
+      "chars" : "theme: royalty"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: memory",
+      "@type" : "oa:Tag",
+      "chars" : "theme: memory"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T21:19:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663795184342",
+    "dcterms:modified" : "2022-09-22T19:45:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=159,589,227,277"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M158.90909,588.86189h113.27273v0h113.27273v138.72727v138.72727h-113.27273h-113.27273v-138.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_cde45edb-e26c-4395-a23d-4db9653314fc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The arrow identifies this figure as Edmund of Anglia, also known as Edmund the Martyr (d. 869). In his legend, he was killed by Vikings, both shot with arrows and decapitated, but his severed head, guarded by a wolf, was able to call out \"Here, here, here!\" until it was found (he is sometimes, therefore, shown accompanied by a wolf). His cult flourished in medieval England; his presence here shows Richard II's devotion to English royal saints.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The arrow identifies this figure as <strong>Edmund of Anglia</strong>, also known as <strong>Edmund the Martyr</strong> (d. 869). In his legend, he was killed by Vikings, both shot with arrows and decapitated, but his severed head, guarded by a wolf, was able to call out \"Here, here, here!\" until it was found (he is sometimes, therefore, shown accompanied by a wolf). His cult flourished in medieval England; his presence here shows Richard II's devotion to English royal saints.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "edmund the martyr (king & saint)",
+      "@type" : "oa:Tag",
+      "chars" : "edmund the martyr (king & saint)"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "talking severed heads",
+      "@type" : "oa:Tag",
+      "chars" : "talking severed heads"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T13:27:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663853258962",
+    "dcterms:modified" : "2022-09-22T19:46:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=342,578,161,547"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M419.15344,577.82011l83.42857,12.35979l-123.59788,534.56085l-37.07937,-24.71958z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_ce23e8b2-3d1b-462d-add2-d76514c4da86\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Even a well-preserved medieval painting deteriorates over time: the traces of pigment here show that the red coloring of the Confessor's robes has faded over the centuries. Originally a red lake pigment, made up of a dye combined with an inert binder, was used here and elsewhere in the painting (the roses in the left panel, for instance). However, these pigments are very prone to fading and only traces remain today.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Even a well-preserved medieval painting deteriorates over time: the traces of pigment here show that the red coloring of the Confessor's robes has faded over the centuries. Originally a red lake pigment, made up of a dye combined with an inert binder, was used here and elsewhere in the painting (the roses in the left panel, for instance). However, these pigments are very prone to fading and only traces remain today.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T21:44:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663796685767",
+    "dcterms:modified" : "2022-09-22T19:47:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=708,1209,82,72"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M708.3008,1209.37437l51.81818,0.90909l30,40l-1.81818,30.90909l-24.54545,-4.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_8024c6d0-c313-497a-bacb-b9cf7a1b3917\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The pattern here is formed by stippling (very delicate punchwork with a thin metal tool) on gold leaf, as is the pattern on the other side. The stippling is not possible to see at this resolution but is visible in person.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The pattern here is formed by stippling (very delicate punchwork with a thin metal tool) on gold leaf, as is the pattern on the other side. The stippling is not possible to see at this resolution but is visible in person.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T17:40:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663868436638",
+    "dcterms:modified" : "2022-09-22T19:45:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=85,99,236,126"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M85.27273,98.90909h117.81818v0h117.81818v62.81818v62.81818h-117.81818h-117.81818v-62.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_2ea335f0-3ae7-4daa-be41-f18ab03f0788\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"background-color: transparent;\">Richard had adopted the white hart (an adaptation of the white hind badge of his mother, <strong style=\"background-color: transparent;\">Joan of Kent<span style=\"background-color: transparent;\">) as his personal badge by 1390; his distribution of the symbol to his retainers was already fairly infamous by the mid-to-late 1390s. Enamel badges (often elaborately jeweled) were common among medieval elites; the one Richard wears here is painted with multiple layers of white lead for a three-dimensional effect. The underdrawing shows that the size and scale of the figure was reduced during composition.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"background-color: transparent;\">Richard had adopted the white hart (an adaptation of the white hind badge of his mother, </span><strong style=\"background-color: transparent;\">Joan of Kent</strong><span style=\"background-color: transparent;\">) as his personal badge by 1390; his distribution of the symbol to his retainers was already fairly infamous by the mid-to-late 1390s. Enamel badges (often elaborately jeweled) were common among medieval elites; the one Richard wears here is painted with multiple layers of white lead for a three-dimensional effect. The underdrawing shows that the size and scale of the figure was reduced during composition.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "richard ii",
+      "@type" : "oa:Tag",
+      "chars" : "richard ii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "joan of kent",
+      "@type" : "oa:Tag",
+      "chars" : "joan of kent"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "heraldry: white hart",
+      "@type" : "oa:Tag",
+      "chars" : "heraldry: white hart"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T20:22:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663791743392",
+    "dcterms:modified" : "2022-09-22T19:47:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1107,1483,82,118"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1119.16743,1500.83672c7.61487,-9.94806 18.35687,-17.35604 29.15092,-17.34719v0v0c10.79405,0.00885 20.19749,6.9389 29.15092,17.34719c8.95343,10.40829 12.43352,26.26852 12.07471,41.87982c-0.35881,15.6113 -4.55652,30.97368 -12.07471,41.87982c-7.51819,10.90614 -18.35687,17.35604 -29.15092,17.34719c-10.79405,-0.00885 -21.54349,-6.47645 -29.15092,-17.34719c-7.60743,-10.87074 -12.07285,-26.14461 -12.07471,-41.87982c-0.00186,-15.73521 4.45984,-31.93176 12.07471,-41.87982z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_a8a0326f-f46a-4aca-9432-9d2dba3cb221\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "It has been speculated, based on the reading of the three patron saints in the left panel and the possibility of a memorial element to the Diptych, that the appearance of the Virgin Mary is based on that of Joan of Kent (c. 1328-85), Richard's mother. Joan is now known for her checkered marital history, but more controversial figures have been known to have been the basis for medieval Madonnas -- most notably Jean Fouquet's Melun Diptych, in which the Virgin Mary is modeled on royal mistress Agn&egrave;s Sorel.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>It has been speculated, based on the reading of the three patron saints in the left panel and the possibility of a memorial element to the Diptych, that the appearance of the Virgin Mary is based on that of Joan of Kent (c. 1328-85), Richard's mother. Joan is now known for her checkered marital history, but more controversial figures have been known to have been the basis for medieval Madonnas -- most notably Jean Fouquet's Melun Diptych, in which the Virgin Mary is modeled on royal mistress Agn&egrave;s Sorel.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "virgin mary",
+      "@type" : "oa:Tag",
+      "chars" : "virgin mary"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "joan of kent",
+      "@type" : "oa:Tag",
+      "chars" : "joan of kent"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: lineage",
+      "@type" : "oa:Tag",
+      "chars" : "theme: lineage"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: memory",
+      "@type" : "oa:Tag",
+      "chars" : "theme: memory"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T18:01:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663869706775",
+    "dcterms:modified" : "2022-09-22T19:49:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1924,527,247,239"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1960.17261,561.82042c22.76311,-20.07315 54.87416,-35.02094 87.14082,-35.00308v0v0c32.26666,0.01786 60.37634,14.00128 87.14082,35.00308c26.76448,21.0018 37.1675,53.0045 36.09491,84.50492c-1.07259,31.50042 -13.62079,62.49856 -36.09491,84.50492c-22.47412,22.00636 -54.87416,35.02094 -87.14082,35.00308c-32.26666,-0.01786 -64.39994,-13.06816 -87.14082,-35.00308c-22.74088,-21.93492 -36.08935,-52.75448 -36.09491,-84.50492c-0.00556,-31.75044 13.3318,-64.43177 36.09491,-84.50492z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_82b2e75d-df9a-44bd-a91f-6d1bc23c0585\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The ring identifies this figure as Edward the Confessor (1002-66), who was formally canonized as a saint in 1161. It refers to a legend in which Edward gave a ring to a poor beggar, who later returned it to two English pilgrims, telling them to deliver it to Edward, as he would meet him in heaven in six months. For more on Edward the Confessor, see the verso.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The ring identifies this figure as <strong>Edward the Confessor</strong> (1002-66), who was formally canonized as a saint in 1161. It refers to a legend in which Edward gave a ring to a poor beggar, who later returned it to two English pilgrims, telling them to deliver it to Edward, as he would meet him in heaven in six months. For more on Edward the Confessor, see the verso.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "edward the confessor (king & saint)",
+      "@type" : "oa:Tag",
+      "chars" : "edward the confessor (king & saint)"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T21:11:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663794703603",
+    "dcterms:modified" : "2022-09-22T19:46:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=709,919,81,77"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M720.84552,930.22522c7.5165,-6.47722 18.11974,-11.30059 28.77437,-11.29483v0v0c10.65463,0.00576 19.93659,4.51795 28.77437,11.29483c8.83778,6.77688 12.27291,17.10355 11.91873,27.26814c-0.35418,10.16459 -4.49766,20.1671 -11.91873,27.26814c-7.42107,7.10104 -18.11974,11.30059 -28.77437,11.29483c-10.65463,-0.00576 -21.26521,-4.21685 -28.77437,-11.29483c-7.50916,-7.07798 -11.91689,-17.02287 -11.91873,-27.26814c-0.00184,-10.24527 4.40223,-20.79092 11.91873,-27.26814z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_50817a2a-578c-4e2a-b55d-7bd95311837c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ultramarine blue, made from polished and ground lapis lazuli, was one of the most prized (and expensive) pigments of the middle ages, and is used in abundance here.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ultramarine blue, made from polished and ground lapis lazuli, was one of the most prized (and expensive) pigments of the middle ages, and is used in abundance here.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T17:43:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663868629322",
+    "dcterms:modified" : "2022-09-22T19:50:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2051,842,101,84"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2050.59636,841.57818h50.48364v0h50.48364v41.84364v41.84364h-50.48364h-50.48364v-41.84364z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_cbccc8c8-65cc-4752-9a69-1d603b53741b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-4bcdaf05-7fff-2302-f28c-24abfd6cbfe5\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The pose of the Virgin and Child -- with the S-curve of the Virgin's posture and the Child's hands raised in blessing -- is virtually unique in English art and unknown in French art (although the specific detail of the Virgin holding the Child's foot can be found in French sources). It is, however, quite common in statuary of this period from Central Europe, enough that the type is collectively referred to by the name \"Sch&ouml;ne [Beautiful] Madonna.\" This style was particularly popular in Bohemia; perhaps the most famous example (pictured below) originated in Česk&yacute; Krumlov, for which it is known as the \"Krumlov Madonna.\" Its appearance in English panel painting has led art historians to suggest that Anne of Bohemia may have owned a devotional statue in this style which could have served as the model for the Virgin and Child in the Diptych; while there is no specific evidence that she owned such a statue, it is certainly plausible and it would be in keeping with the memorial presence of Anne throughout the painting.\n<span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Krumlovska_madona_KHM.JPG/270px-Krumlovska_madona_KHM.JPG\" alt=\"The Krumlov Madonna, Kunsthistorichesmuseum, Vienna\" width=\"270\" height=\"480\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-4bcdaf05-7fff-2302-f28c-24abfd6cbfe5\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The pose of the Virgin and Child -- with the S-curve of the Virgin's posture and the Child's hands raised in blessing -- is virtually unique in English art and unknown in French art (although the specific detail of the Virgin holding the Child's foot can be found in French sources). It is, however, quite common in statuary of this period from Central Europe, enough that the type is collectively referred to by the name \"Sch&ouml;ne [Beautiful] Madonna.\" This style was particularly popular in Bohemia; perhaps the most famous example (pictured below) originated in Česk&yacute; Krumlov, for which it is known as the \"Krumlov Madonna.\" Its appearance in English panel painting has led art historians to suggest that Anne of Bohemia may have owned a devotional statue in this style which could have served as the model for the Virgin and Child in the Diptych; while there is no specific evidence that she owned such a statue, it is certainly plausible and it would be in keeping with the memorial presence of Anne throughout the painting.</span></span></p>\n<p><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Krumlovska_madona_KHM.JPG/270px-Krumlovska_madona_KHM.JPG\" alt=\"The Krumlov Madonna, Kunsthistorichesmuseum, Vienna\" width=\"270\" height=\"480\" /></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anne of bohemia",
+      "@type" : "oa:Tag",
+      "chars" : "anne of bohemia"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "annotations with images",
+      "@type" : "oa:Tag",
+      "chars" : "annotations with images"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sources and influences",
+      "@type" : "oa:Tag",
+      "chars" : "sources and influences"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "virgin mary",
+      "@type" : "oa:Tag",
+      "chars" : "virgin mary"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "christ child",
+      "@type" : "oa:Tag",
+      "chars" : "christ child"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: memory",
+      "@type" : "oa:Tag",
+      "chars" : "theme: memory"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T21:04:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663794276198",
+    "dcterms:modified" : "2022-09-22T19:51:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1987,1005,171,183"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2012.36378,1031.45291c15.78137,-15.38097 38.04354,-26.83465 60.4136,-26.82097v0v0c22.37006,0.01368 41.85813,10.72842 60.4136,26.82097c18.55547,16.09255 25.76774,40.61448 25.02413,64.75155c-0.74361,24.13707 -9.44312,47.88927 -25.02413,64.75155c-15.58101,16.86228 -38.04354,26.83465 -60.4136,26.82097c-22.37006,-0.01368 -44.64765,-10.01342 -60.4136,-26.82097c-15.76595,-16.80755 -25.02028,-40.4229 -25.02413,-64.75155c-0.00385,-24.32865 9.24276,-49.37058 25.02413,-64.75155z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_67880bac-8a1d-40d5-949f-905f8b0bda2a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-e6aa1ffc-7fff-9620-283f-cb7c001b6e26\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Richard's appearance in the Wilton Diptych has long been a source of confusion and controversy. He is depicted in the altarpiece as a beardless youth, but the heraldry in it, including the coat of arms he adopted in 1395 and the badges belonging to his second wife, Isabelle de Valois, necessitate a date in the late 1390s. Other contemporary images (such as his tomb effigy, commissioned and created before his death and roughly contemporaneous with the Diptych) show him in a more true-to-life manner as the adult man he actually was: he was around thirty years old at the probable date of the painting's creation, and images of him from the late 1380s on consistently depict him as bearded. X-ray analysis of the king's face in the Diptych reveals that it was painted in after much of the work was completed; the likely conclusion is that the artist needed reference images. The depiction of Richard as younger than he was is probably meant to reflect his coronation in 1377 at the impressionable age of ten, which contributed significantly to the sanctified view of kingship displayed in the Wilton Diptych. \n<span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sculpture_of_Richard_II_of_England.jpg/174px-Sculpture_of_Richard_II_of_England.jpg\" alt=\"Cast of Richard II's tomb effigy, National Portrait Gallery, London (based on original in Westminster Abbey)\" width=\"174\" height=\"240\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-e6aa1ffc-7fff-9620-283f-cb7c001b6e26\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Richard's appearance in the Wilton Diptych has long been a source of confusion and controversy. He is depicted in the altarpiece as a beardless youth, but the heraldry in it, including the coat of arms he adopted in 1395 and the badges belonging to his second wife, Isabelle de Valois, necessitate a date in the late 1390s. Other contemporary images (such as his tomb effigy, commissioned and created before his death and roughly contemporaneous with the Diptych) show him in a more true-to-life manner as the adult man he actually was: he was around thirty years old at the probable date of the painting's creation, and images of him from the late 1380s on consistently depict him as bearded. X-ray analysis of the king's face in the Diptych reveals that it was painted in after much of the work was completed; the likely conclusion is that the artist needed reference images. The depiction of Richard as younger than he was is probably meant to reflect his coronation in 1377 at the impressionable age of ten, which contributed significantly to the sanctified view of kingship displayed in the Wilton Diptych. </span></span></p>\n<p><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sculpture_of_Richard_II_of_England.jpg/174px-Sculpture_of_Richard_II_of_England.jpg\" alt=\"Cast of Richard II's tomb effigy, National Portrait Gallery, London (based on original in Westminster Abbey)\" width=\"174\" height=\"240\" /></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "richard ii",
+      "@type" : "oa:Tag",
+      "chars" : "richard ii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "facial hair controversies",
+      "@type" : "oa:Tag",
+      "chars" : "facial hair controversies"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "annotations with images",
+      "@type" : "oa:Tag",
+      "chars" : "annotations with images"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "date and context",
+      "@type" : "oa:Tag",
+      "chars" : "date and context"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T20:14:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663791253209",
+    "dcterms:modified" : "2022-09-22T19:47:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1034,1183,160,218"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1034.47923,1183.38616h79.85306v0h79.85306v109.0349v109.0349h-79.85306h-79.85306v-109.0349z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_f7a61e75-e59f-40da-8391-0ee23a367488\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The St. George's Cross was the English flag until the 1707 Act of Union. There is a medieval English tradition of England as \"the dowry of Mary\" (Dos Mariae); a now-lost altarpiece which was residing in the English College of Rome in the seventeenth century depicted Richard and Anne (whose Bohemian heraldry, unique among English queens, makes the identification of the figures possible) presenting the island of Britain to the Virgin Mary, with the inscription \"Dos tua, Virgo pia / Haec est, quare rege, Maria\" (\"This is your dowry, holy Virgin, therefore may you rule it, Mary\"). They are accompanied by St. John the Baptist, St. George, and two other unknown saints. This altarpiece was described by Silvestro Petrasancta in his Tesserae Gentilitiae (1638); he includes engravings of the figures of Richard and Anne. Juxtaposed with the map in the orb, it supports the reading that Richard is shown having presented the banner of England to the Virgin, waiting to receive its custody from her.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The St. George's Cross was the English flag until the 1707 Act of Union. There is a medieval English tradition of England as \"the dowry of Mary\" (<em>Dos Mariae</em>); a now-lost altarpiece which was residing in the English College of Rome in the seventeenth century depicted Richard and Anne (whose Bohemian heraldry, unique among English queens, makes the identification of the figures possible) presenting the island of Britain to the Virgin Mary, with the inscription \"Dos tua, Virgo pia / Haec est, quare rege, Maria\" (\"This is your dowry, holy Virgin, therefore may you rule it, Mary\"). They are accompanied by St. John the Baptist, St. George, and two other unknown saints. This altarpiece was described by Silvestro Petrasancta in his <em>Tesserae Gentilitiae</em> (1638); he includes engravings of the figures of Richard and Anne. Juxtaposed with the map in the orb, it supports the reading that Richard is shown having presented the banner of England to the Virgin, waiting to receive its custody from her.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: englishness",
+      "@type" : "oa:Tag",
+      "chars" : "theme: englishness"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "richard ii",
+      "@type" : "oa:Tag",
+      "chars" : "richard ii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anne of bohemia",
+      "@type" : "oa:Tag",
+      "chars" : "anne of bohemia"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sources and influences",
+      "@type" : "oa:Tag",
+      "chars" : "sources and influences"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T21:59:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663797542141",
+    "dcterms:modified" : "2022-09-22T19:49:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1644,32,156,156"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1643.86243,31.98942h78.24868v0h78.24868v78.24868v78.24868h-78.24868h-78.24868v-78.24868z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_7182512b-9817-4083-8732-60ec0ec7e382\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Damage to the paint reveals the green underpainting. A green pigment called&nbsp;terre vert&nbsp;was often used in medieval and renaissance art as underpainting; when combined with pink pigment, it produces the colors typical of light-skinned flesh tones. The egg tempera used by medieval artists does not blend like oil paint--which was not a common artistic medium until the fifteenth century--so the green undertones can become visible with wear or damage.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Damage to the paint reveals the green underpainting. A green pigment called&nbsp;<em>terre vert</em>&nbsp;was often used in medieval and renaissance art as underpainting; when combined with pink pigment, it produces the colors typical of light-skinned flesh tones. The egg tempera used by medieval artists does not blend like oil paint--which was not a common artistic medium until the fifteenth century--so the green undertones can become visible with wear or damage.&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T17:11:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663866671074",
+    "dcterms:modified" : "2022-09-22T19:50:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2211,605,101,78"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2210.90909,604.90909h50.54545v0h50.54545v39.18182v39.18182h-50.54545h-50.54545v-39.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_46b8de79-f3a0-4b47-941f-dcfaa4bd8d95\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The angels also wear Richard's badges: the broomscod collar (borrowed from Charles VI) and the white hart. It is sometimes suggested that Shakespeare, whose version of Richard confidently proclaims that \"For every man that Bolingbroke hath pressed...God for his Richard hath in heavenly pay / A glorious angel\" (Richard II 3.2.59-62), may have seen the Wilton Diptych (which was residing in Wiltshire at the time). <span style=\"background-color: transparent; color: #000000;\">Commentators often find this detail somewhat shocking; it has been suggested that the imagery, with the angels wearing the badges of both kings, may reflect plans for a crusade-themed order, the Order of the Passion, discussed by the two of them in the wake of their alliance. The plans, of course, never came to fruition; at this point in the middle ages, crusading was usually more of a fantasy than a reality.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The angels also wear Richard's badges: the broomscod collar (borrowed from Charles VI) and the white hart. It is sometimes suggested that Shakespeare, whose version of Richard confidently proclaims that \"For every man that Bolingbroke hath pressed...God for his Richard hath in heavenly pay / A glorious angel\" (<em>Richard II</em> 3.2.59-62), may have seen the Wilton Diptych (which was residing in Wiltshire at the time). <span style=\"background-color: transparent; color: #000000;\">Commentators often find this detail somewhat shocking; it has been suggested that the imagery, with the angels wearing the badges of both kings, may reflect plans for a crusade-themed order, the Order of the Passion, discussed by the two of them in the wake of their alliance. The plans, of course, never came to fruition; at this point in the middle ages, crusading was usually more of a fantasy than a reality.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "heraldry: broomscod",
+      "@type" : "oa:Tag",
+      "chars" : "heraldry: broomscod"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "heraldry: white hart",
+      "@type" : "oa:Tag",
+      "chars" : "heraldry: white hart"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "angels",
+      "@type" : "oa:Tag",
+      "chars" : "angels"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "shakespeare",
+      "@type" : "oa:Tag",
+      "chars" : "shakespeare"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "richard ii",
+      "@type" : "oa:Tag",
+      "chars" : "richard ii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "charles vi",
+      "@type" : "oa:Tag",
+      "chars" : "charles vi"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: divine right",
+      "@type" : "oa:Tag",
+      "chars" : "theme: divine right"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "order of the passion",
+      "@type" : "oa:Tag",
+      "chars" : "order of the passion"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T20:38:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663792710736",
+    "dcterms:modified" : "2022-09-22T19:51:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1643,1387,189,158"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1643.24146,1387.32834h94.63636v0h94.63636v79.18182v79.18182h-94.63636h-94.63636v-79.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_f2a5ceb9-e51f-44e0-8c32-735262ad93f5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The halo on the Christ child contains an elaborate crown of thorns and three nails, foreshadowing the crucifixion in the image of the infant Christ. These details are created with gold stippling and are very subtle. It has been suggested that the depiction of the Christ child was modeled on Richard's older brother, Edward of Angoul&ecirc;me (1365-71), who died as a child, although there is no record of Edward's appearance.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The halo on the Christ child contains an elaborate crown of thorns and three nails, foreshadowing the crucifixion in the image of the infant Christ. These details are created with gold stippling and are very subtle. It has been suggested that the depiction of the Christ child was modeled on Richard's older brother, <strong>Edward of Angoul&ecirc;me</strong> (1365-71), who died as a child, although there is no record of Edward's appearance.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "christ child",
+      "@type" : "oa:Tag",
+      "chars" : "christ child"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "order of the passion",
+      "@type" : "oa:Tag",
+      "chars" : "order of the passion"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "edward of angouleme",
+      "@type" : "oa:Tag",
+      "chars" : "edward of angouleme"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: memory",
+      "@type" : "oa:Tag",
+      "chars" : "theme: memory"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T17:17:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663867033081",
+    "dcterms:modified" : "2022-09-22T19:50:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1730,700,217,210"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1761.53286,730.96065c20.00888,-17.65808 48.23466,-30.80746 76.59721,-30.79175v0v0c28.36255,0.01571 53.0711,12.31674 76.59721,30.79175c23.52611,18.47501 32.67041,46.62736 31.7276,74.33786c-0.94281,27.7105 -11.97274,54.97916 -31.7276,74.33786c-19.75486,19.3587 -48.23466,30.80746 -76.59721,30.79175c-28.36255,-0.01571 -56.60787,-11.49589 -76.59721,-30.79175c-19.98934,-19.29586 -31.72271,-46.40742 -31.7276,-74.33786c-0.00489,-27.93044 11.71872,-56.67978 31.7276,-74.33786z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_8b3e06cf-7718-4e64-bb5f-e2a8825b2c86\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The heavenly landscape of the right panel is green and flowering, although the pigments have darkened or faded with time: the grass would have been much greener, and the flowers (like Edward the Confessor's pink robes in the other panel) would have been colored with red lake pigment.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The heavenly landscape of the right panel is green and flowering, although the pigments have darkened or faded with time: the grass would have been much greener, and the flowers (like Edward the Confessor's pink robes in the other panel) would have been colored with red lake pigment.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T17:04:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663866257001",
+    "dcterms:modified" : "2022-09-22T19:52:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1536,2113,418,193"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1535.59293,2112.55379h208.92769v0h208.92769v96.27337v96.27337h-208.92769h-208.92769v-96.27337z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_f4297de1-aead-42b9-bdd0-c961d118e7d7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "X-ray analysis reveals that the position of this angel's hand was altered from the underdrawing in order to point at Richard more clearly.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>X-ray analysis reveals that the position of this angel's hand was altered from the underdrawing in order to point at Richard more clearly.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T16:04:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663862654698",
+    "dcterms:modified" : "2022-09-22T19:52:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2367,1283,144,70"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2366.91005,1283.41799h72.06878v0h72.06878v34.98942v34.98942h-72.06878h-72.06878v-34.98942z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_996fda41-dd8e-44f7-90f4-ad785597d1b8\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-938355b5-7fff-c17d-42ae-07c1c6de3751\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The eagle was the emblem of the Holy Roman Empire (the more famous double-headed version was adopted in 1415). Its use here reflects Richard's marriage to Anne of Bohemia, daughter of Emperor Charles IV (1316-78). By the late 1390s, Richard, who was generally interested in his wife's culture and seems to have seen his father-in-law as a role model, was cultivating imperial ambitions, although the use of Anne's heraldry is probably a memorial first and foremost: they were famously devoted to one another, and after her death in 1394 Richard commissioned the first royal double tomb in English history, which showed them holding hands (although the arms of the effigies have since been destroyed).\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tomb_of_King_Richard_II_of_England.jpg/293px-Tomb_of_King_Richard_II_of_England.jpg\" alt=\"Tomb of Richard II and Anne of Bohemia, Westminster Abbey, London\" width=\"293\" height=\"240\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-938355b5-7fff-c17d-42ae-07c1c6de3751\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The eagle was the emblem of the Holy Roman Empire (the more famous double-headed version was adopted in 1415). Its use here reflects Richard's marriage to <strong>Anne of Bohemia</strong>, daughter of Emperor <strong>Charles IV</strong> (1316-78). By the late 1390s, Richard, who was generally interested in his wife's culture and seems to have seen his father-in-law as a role model, was cultivating imperial ambitions, although the use of Anne's heraldry is probably a memorial first and foremost: they were famously devoted to one another, and after her death in 1394 Richard commissioned the first royal double tomb in English history, which showed them holding hands (although the arms of the effigies have since been destroyed).</span></span></p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tomb_of_King_Richard_II_of_England.jpg/293px-Tomb_of_King_Richard_II_of_England.jpg\" alt=\"Tomb of Richard II and Anne of Bohemia, Westminster Abbey, London\" width=\"293\" height=\"240\" /></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "richard ii",
+      "@type" : "oa:Tag",
+      "chars" : "richard ii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anne of bohemia",
+      "@type" : "oa:Tag",
+      "chars" : "anne of bohemia"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "charles iv",
+      "@type" : "oa:Tag",
+      "chars" : "charles iv"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sources and influences",
+      "@type" : "oa:Tag",
+      "chars" : "sources and influences"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: memory",
+      "@type" : "oa:Tag",
+      "chars" : "theme: memory"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "annotations with images",
+      "@type" : "oa:Tag",
+      "chars" : "annotations with images"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T20:25:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663791950065",
+    "dcterms:modified" : "2022-09-22T19:48:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=876,1620,76,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M875.65642,1650.3972l76.36364,-30l-3.63636,69.09091l-20.90909,11.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_e9693b93-1bf1-481f-94e4-ee01bcee2d68\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-e70fc743-7fff-9c58-bf6a-fb4d677c93f8\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The collar worn by Richard in the painting reflects Richard's alliance with France through his marriage in 1396 to Isabelle de Valois (1389-1409), daughter of Charles VI of France. A broomscod collar given to Richard by Charles VI is described in the 1399 inventory of Richard's jewels, plate, and crowns, but the description does not resemble the one depicted here. The broomscod was one of Charles' emblems, although Richard would surely have also been aware of the significance of the broom plant (<span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">planta genista<span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">) in his own family history. The flowers on the collar have been recently identified as pimpernel, a badge used by Isabelle; it was common for royal and noble men to adopt their wives' heraldry as well as their own. Multiple badges associated with Richard's first wife, Anne of Bohemia (1366-94), also appear in the Diptych.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-e70fc743-7fff-9c58-bf6a-fb4d677c93f8\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The collar worn by Richard in the painting reflects Richard's alliance with France through his marriage in 1396 to <strong>Isabelle de Valois </strong>(1389-1409), daughter of <strong>Charles VI</strong> of France. A broomscod collar given to Richard by Charles VI is described in the 1399 inventory of Richard's jewels, plate, and crowns, but the description does not resemble the one depicted here. The broomscod was one of Charles' emblems, although Richard would surely have also been aware of the significance of the broom plant (</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">planta genista</span><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">) in his own family history. The flowers on the collar have been recently identified as pimpernel, a badge used by Isabelle; it was common for royal and noble men to adopt their wives' heraldry as well as their own. Multiple badges associated with Richard's first wife, <strong>Anne of Bohemia</strong> (1366-94), also appear in the Diptych.</span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "richard ii",
+      "@type" : "oa:Tag",
+      "chars" : "richard ii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "isabelle de valois",
+      "@type" : "oa:Tag",
+      "chars" : "isabelle de valois"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "charles vi",
+      "@type" : "oa:Tag",
+      "chars" : "charles vi"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "heraldry: broomscod",
+      "@type" : "oa:Tag",
+      "chars" : "heraldry: broomscod"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "heraldry: pimpernel",
+      "@type" : "oa:Tag",
+      "chars" : "heraldry: pimpernel"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T20:21:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663791708521",
+    "dcterms:modified" : "2022-09-22T19:47:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=995,1374,129,162"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M995.46928,1373.68427h64.63636v0h64.63636v81v81h-64.63636h-64.63636v-81z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_6ae4a696-1f66-4e7a-bec1-87faaf037a86\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-6e4ff62a-7fff-7577-52d6-19ccecc05ea7\">John the Bapt<span id=\"docs-internal-guid-6e4ff62a-7fff-7577-52d6-19ccecc05ea7\">ist may be modeled on Richard's father, Edward, Prince of Wales (1330-76) popularly (if not during his lifetime) known as the \"Black Prince,\" whose premature death (a year before that of Edward III) led to Richard's coronation at the age of ten. He is shown with his hand resting on Richard's shoulder. Richard is known to have had a strong devotion to John the Baptist; the resemblance to his own father, who had been a strenuous advocate of his son's right to inherit once his health began failing, adds greater poignance to the image. The Prince's tomb in Canterbury Cathedral, which in 2021 was revealed to have been completed by Richard in the late 1380s, is pictured below.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b3/Edward_Black_Prince.jpg\" alt=\"Tomb of Edward, Prince of Wales, in Canterbury Cathedral, Canterbury (detail)\" width=\"204\" height=\"331\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-6e4ff62a-7fff-7577-52d6-19ccecc05ea7\">John the Bapt</span><span id=\"docs-internal-guid-6e4ff62a-7fff-7577-52d6-19ccecc05ea7\">ist may be modeled on Richard's father, <strong>Edward, Prince of Wales</strong> (1330-76) popularly (if not during his lifetime) known as the \"Black Prince,\" whose premature death (a year before that of Edward III) led to Richard's coronation at the age of ten. He is shown with his hand resting on Richard's shoulder. Richard is known to have had a strong devotion to John the Baptist; the resemblance to his own father, who had been a strenuous advocate of his son's right to inherit once his health began failing, adds greater poignance to the image. The Prince's tomb in Canterbury Cathedral, which in 2021 was revealed to have been completed by Richard in the late 1380s, is pictured below.</span></p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b3/Edward_Black_Prince.jpg\" alt=\"Tomb of Edward, Prince of Wales, in Canterbury Cathedral, Canterbury (detail)\" width=\"204\" height=\"331\" /></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "john the baptist (saint)",
+      "@type" : "oa:Tag",
+      "chars" : "john the baptist (saint)"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "edward prince of wales (aka the black prince)",
+      "@type" : "oa:Tag",
+      "chars" : "edward prince of wales (aka the black prince)"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: lineage",
+      "@type" : "oa:Tag",
+      "chars" : "theme: lineage"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: royalty",
+      "@type" : "oa:Tag",
+      "chars" : "theme: royalty"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "annotations with images",
+      "@type" : "oa:Tag",
+      "chars" : "annotations with images"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: memory",
+      "@type" : "oa:Tag",
+      "chars" : "theme: memory"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T21:36:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663796174085",
+    "dcterms:modified" : "2022-09-22T19:46:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1063,579,226,270"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1062.69489,579.42504h113.01058v0h113.01058v134.89771v134.89771h-113.01058h-113.01058v-134.89771z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_0383e4e4-68fe-41d7-b0bd-428533b29d75\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The image of Edward the Confessor strongly resembles another King Edward: Richard's grandfather and immediate predecessor, Edward III (1312-77). Pictured below: Edward III's tomb effigy in Westminster Abbey. For more on Richard's devotion to Edward the Confessor, see the note on the verso.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/c/c8/Edward-III-king-England.jpg\" alt=\"Tomb effigy of Edward III, Westminster Abbey, London (detail)\" width=\"250\" height=\"255\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The image of Edward the Confessor strongly resembles another King Edward: Richard's grandfather and immediate predecessor, <strong>Edward III</strong> (1312-77). Pictured below: Edward III's tomb effigy in Westminster Abbey. For more on Richard's devotion to Edward the Confessor, see the note on the verso.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/c/c8/Edward-III-king-England.jpg\" alt=\"Tomb effigy of Edward III, Westminster Abbey, London (detail)\" width=\"250\" height=\"255\" /></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "edward the confessor (king & saint)",
+      "@type" : "oa:Tag",
+      "chars" : "edward the confessor (king & saint)"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "edward iii",
+      "@type" : "oa:Tag",
+      "chars" : "edward iii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "annotations with images",
+      "@type" : "oa:Tag",
+      "chars" : "annotations with images"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: lineage",
+      "@type" : "oa:Tag",
+      "chars" : "theme: lineage"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: royalty",
+      "@type" : "oa:Tag",
+      "chars" : "theme: royalty"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: memory",
+      "@type" : "oa:Tag",
+      "chars" : "theme: memory"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T21:14:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663794856300",
+    "dcterms:modified" : "2022-09-22T19:46:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=537,529,338,352"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M536.82182,529.42189h169.08727v0h169.08727v176.15636v176.15636h-169.08727h-169.08727v-176.15636z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_4c616ded-e4f5-4841-9657-273e8c051a87\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-69ae19d6-7fff-9d4c-dbfb-b281ea5a031e\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The pattern on Richard's robes combines his own heraldry with that of both of his wives. The hart appears again as the central figure, alongside the imperial eagle; the rosemary on which the hart rests both here and on the verso was a badge of Anne of Bohemia, while the French broomscod forms the roundels. The embroidered effect was created with stippling: indenting the gold leaf with a very small tool to create texture. Gold leaf is notoriously difficult to work with, and must be applied before the paint in order to stick to the surface; the delicate work here is clearly the work of a master craftsperson. Following the application of the gold here, the whole surface was painted over with vermilion and then scraped off the gilded areas. The next stage was to add the stippling, after which the folds of the robe were highlighted with a glaze.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-69ae19d6-7fff-9d4c-dbfb-b281ea5a031e\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">The pattern on Richard's robes combines his own heraldry with that of both of his wives. The hart appears again as the central figure, alongside the imperial eagle; the rosemary on which the hart rests both here and on the verso was a badge of Anne of Bohemia, while the French broomscod forms the roundels. The embroidered effect was created with stippling: indenting the gold leaf with a very small tool to create texture. Gold leaf is notoriously difficult to work with, and must be applied before the paint in order to stick to the surface; the delicate work here is clearly the work of a master craftsperson. Following the application of the gold here, the whole surface was painted over with vermilion and then scraped off the gilded areas. The next stage was to add the stippling, after which the folds of the robe were highlighted with a glaze.</span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "richard ii",
+      "@type" : "oa:Tag",
+      "chars" : "richard ii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anne of bohemia",
+      "@type" : "oa:Tag",
+      "chars" : "anne of bohemia"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "isabelle de valois",
+      "@type" : "oa:Tag",
+      "chars" : "isabelle de valois"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "heraldry: white hart",
+      "@type" : "oa:Tag",
+      "chars" : "heraldry: white hart"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "heraldry: broomscod",
+      "@type" : "oa:Tag",
+      "chars" : "heraldry: broomscod"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "heraldry: rosemary",
+      "@type" : "oa:Tag",
+      "chars" : "heraldry: rosemary"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T20:23:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663791839476",
+    "dcterms:modified" : "2022-09-22T19:48:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=918,1741,178,177"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M944.11962,1766.88625c16.46774,-14.88523 39.69815,-25.96975 63.04113,-25.95651v0v0c23.34298,0.01324 43.67864,10.38264 63.04113,25.95651c19.36249,15.57387 26.88845,39.30545 26.11249,62.66457c-0.77596,23.35912 -9.85382,46.34577 -26.11249,62.66457c-16.25867,16.3188 -39.69815,25.96975 -63.04113,25.95651c-23.34298,-0.01324 -46.58948,-9.69068 -63.04113,-25.95651c-16.45165,-16.26583 -26.10847,-39.12005 -26.11249,-62.66457c-0.00402,-23.54452 9.64475,-47.77934 26.11249,-62.66457z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_995f6dc4-325b-4aaf-8397-f481377489a0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This detail was only discovered when the Diptych was restored in the 1990s: atop the banner is an image of a small island with a castle, which may represent Britain (sans&nbsp;Scotland) or Ireland, where Richard had conducted a fairly successful military campaign in 1394-95. However, the Dos Mariae tradition (see below) supports the interpretation that it is meant to represent England. A boat sailing by emphasizes that the scene shows an island; the sea is depicted in silver leaf which is now tarnished, anticipating Shakespeare's description of England as \"this precious stone set in the silver sea\" (Richard II 2.1.51).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This detail was only discovered when the Diptych was restored in the 1990s: atop the banner is an image of a small island with a castle, which may represent Britain (<em>sans</em>&nbsp;Scotland) or Ireland, where Richard had conducted a fairly successful military campaign in 1394-95. However, the Dos Mariae tradition (see below) supports the interpretation that it is meant to represent England. A boat sailing by emphasizes that the scene shows an island; the sea is depicted in silver leaf which is now tarnished, anticipating Shakespeare's description of England as \"this precious stone set in the silver sea\" (<em>Richard II</em> 2.1.51).</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "shakespeare",
+      "@type" : "oa:Tag",
+      "chars" : "shakespeare"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "theme: englishness",
+      "@type" : "oa:Tag",
+      "chars" : "theme: englishness"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-21T21:41:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663796510963",
+    "dcterms:modified" : "2022-09-22T19:49:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1547,-1,76,68"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1558.6097,9.06415c7.02468,-5.71933 16.93412,-9.97833 26.89158,-9.97324v0v0c9.95746,0.00509 18.63208,3.98931 26.89158,9.97324c8.2595,5.98393 11.46986,15.10229 11.13886,24.07753c-0.331,8.97524 -4.20337,17.80738 -11.13886,24.07753c-6.93549,6.27015 -16.93412,9.97833 -26.89158,9.97324c-9.95746,-0.00509 -19.87376,-3.72344 -26.89158,-9.97324c-7.01782,-6.2498 -11.13714,-15.03105 -11.13886,-24.07753c-0.00172,-9.04648 4.11418,-18.3582 11.13886,-24.07753z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_71130f69-e7ad-4f44-b254-34602d239f17\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Angelic imagery recurs throughout Richard's reign, appearing in his coronation pageantry (in which an automaton or puppet in the shape of an angel presented him with a golden crown), the pageantry surrounding his reconciliation with the city of London in 1392, the decoration in Westminster Hall (which he renovated in the 1390s), and on his tomb. The angels here also have distinct secular elements, such as the badges, the poses (companionably leaning on one another), and the chaplets of flowers in place of halos. Richard's treasure roll shows that he owned a similar item made of gold and enamel, with red and white roses (the roses in the angels' chaplets here were originally colored in red lake pigment).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Angelic imagery recurs throughout Richard's reign, appearing in his coronation pageantry (in which an automaton or puppet in the shape of an angel presented him with a golden crown), the pageantry surrounding his reconciliation with the city of London in 1392, the decoration in Westminster Hall (which he renovated in the 1390s), and on his tomb. The angels here also have distinct secular elements, such as the badges, the poses (companionably leaning on one another), and the chaplets of flowers in place of halos. Richard's treasure roll shows that he owned a similar item made of gold and enamel, with red and white roses (the roses in the angels' chaplets here were originally colored in red lake pigment).</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "angels",
+      "@type" : "oa:Tag",
+      "chars" : "angels"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "iconography",
+      "@type" : "oa:Tag",
+      "chars" : "iconography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "richard ii",
+      "@type" : "oa:Tag",
+      "chars" : "richard ii"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T17:33:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663868023758",
+    "dcterms:modified" : "2022-09-22T19:51:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2361,559,604,388"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2360.90909,559.2552h301.90909v0h301.90909v194.18182v194.18182h-301.90909h-301.90909v-194.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_698646fe-a080-4294-bf3a-7b2b43427c71\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The paint has flaked away here because it doesn't stick to gold very well. The painter has otherwise successfully applied paint to the areas between the gold decorations.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The paint has flaked away here because it doesn't stick to gold very well. The painter has otherwise successfully applied paint to the areas between the gold decorations.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "artistic technique",
+      "@type" : "oa:Tag",
+      "chars" : "artistic technique"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114020356",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-09-22T16:06:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1663862812314",
+    "dcterms:modified" : "2022-09-22T19:48:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://frostll-at-slu.github.io/iiiftraining/manifests/frostwdmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1145,1668,71,313"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1145.48515,1667.64612h35.54545v0h35.54545v156.45455v156.45455h-35.54545h-35.54545v-156.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_8693248e-dfc6-47c9-873c-3a72dd1ffb8a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a3407f-d9c2-4b97-8cf9-dd3598ed24fe"
+    } ]
+  } ],
+  "@id" : "https://frostll-at-slu.github.io/iiiftraining/annotations/724e2cee6609f49e886fc8be736b28b8.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
