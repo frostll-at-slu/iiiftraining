@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 748,
+    "id" : "https://frostll-at-slu.github.io/iiiftraining/images/danteincolor/canvas/",
+    "label" : {
+      "none" : [ "danteincolor" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://frostll-at-slu.github.io/iiiftraining/images/danteincolor/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://frostll-at-slu.github.io/iiiftraining/images/danteincolor/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 24,
+              "height" : 21
+            }, {
+              "width" : 47,
+              "height" : 41
+            }, {
+              "width" : 94,
+              "height" : 82
+            }, {
+              "width" : 187,
+              "height" : 163
+            }, {
+              "width" : 374,
+              "height" : 326
+            }, {
+              "width" : 748,
+              "height" : 652
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 748,
+            "@id" : "https://frostll-at-slu.github.io/iiiftraining/images/danteincolor",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 652
+          } ],
+          "format" : "image/jpeg",
+          "width" : 748,
+          "id" : "https://frostll-at-slu.github.io/iiiftraining/images/danteincolor/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 652
+        },
+        "target" : "https://frostll-at-slu.github.io/iiiftraining/images/danteincolor/canvas/"
+      } ]
+    } ],
+    "height" : 652
+  }, {
+    "width" : 748,
     "id" : "https://frostll-at-slu.github.io/iiiftraining/images/dante_in_color/canvas/",
     "label" : {
       "none" : [ "dante_in_color" ]
