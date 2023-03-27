@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 24,
+    "height" : 21
+  }, {
+    "width" : 47,
+    "height" : 41
+  }, {
+    "width" : 94,
+    "height" : 82
+  }, {
+    "width" : 187,
+    "height" : 163
+  }, {
+    "width" : 374,
+    "height" : 326
+  }, {
+    "width" : 748,
+    "height" : 652
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 748,
+  "@id" : "https://frostll-at-slu.github.io/iiiftraining/images/dante_in_color",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 652
+}
